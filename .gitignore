@@ -1,0 +1,5 @@
+# Intellij Production Code
+out/
+
+# Compiled Java Classes
+*.class
